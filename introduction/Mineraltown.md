@@ -27,8 +27,11 @@
 ## 游戏截图
 
 全家福
+
 ![全家福](Pic01.png)
+
 牧场的一角
+
 ![牧场的一角](Pic02.png)
 
 ## 版本差异
@@ -39,7 +42,8 @@
 
 ## 外部链接
 
-**官方网站**
+### 官方网站
 
 - [男孩版](http://www.bokumono.com/series/cube_gba/gba/index.html)
+
 - [女孩版](http://www.bokumono.com/series/cube_gba_girl/gba/index.html)

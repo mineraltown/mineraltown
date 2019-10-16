@@ -11,118 +11,118 @@
 
 ## 新手入门
 
-- [基本操作]()
-- [SL大法]()
-- [牧场禁忌]()
-- [体力疲劳]()
+- [基本操作](/guide/basic.md)
+- [SL大法](/guide/SL.md)
+- [牧场禁忌](/guide/taboo.md)
+- [体力疲劳](/guide/physical.md)
 
 ## 场所介绍
 
-### [自己的牧场]()
+### [自己的牧场](/place/My.md)
 
-[自家]() [动物小屋]() [鸡小屋]() [马小屋]()
+[自家](/place/Home.md) [动物小屋](/place/Animal_hut.md) [鸡小屋](/place/Chicken_hut.md) [马小屋](/place/Horse_hut.md)
 
-- [房屋扩建]()
+- [房屋扩建](/place/expansion.md)
 
-### [小镇]()
+### [小镇](/place/town.md)
 
-[养鸡场]() [塞巴拉的锻冶屋]() [尤德尔牧场]() [玫瑰广场]() [小矮人的家]() [教堂]() [医院]() [杂货屋]() [宿屋]() [镇长的家]() [艾莲的家]() [果树园]() [玛丽的图书馆]() [巴基尔的家]() [村之别墅]()
+[养鸡场](/place/chicken_farm.md) [塞巴拉的锻冶屋](/place/Forging.md) [尤德尔牧场](/place/Yudel.md) [玫瑰广场](/place/square.md) [小矮人的家](/place/Elf.md) [教堂](/place/church.md) [医院](/place/hospital.md) [杂货屋](/place/Grocery_house.md) [宿屋](/place/hostel.md) [镇长的家](/place/Mayor.md) [艾莲的家](/place/AiLian.md) [果树园](/place/Orchard.md) [玛丽的图书馆](/place/library.md) [巴基尔的家](/place/Barkell.md) [村之别墅](/place/Village_villa.md)
 
-### [海滨]()
+### [海滨](/place/seaside.md)
 
-[海之家]() [扎克的家]() [海边别墅]()
+[海之家](/place/Sea_House.md) [扎克的家](/place/Zach.md) [海边别墅](/place/Seaside_villa.md)
 
-### [马德斯山]()
+### [马德斯山](/place/Mountain.md)
 
-[山中别墅]() [女神之泉]() [泉边矿石场]() [湖心矿石场]() [温泉]() [山顶]() [樵夫的家]()
+[山中别墅](/place/Mountain_Villa.md) [女神之泉](/place/Fountain.md) [泉边矿石场](/place/Springside_ore_field.md) [湖心矿石场](/place/Lake_Ore_Field.md) [温泉](/place/spa.md) [山顶](/place/Peak.md) [樵夫的家](/place/woodcutter.md)
 
 ## 镇民介绍
 
 ### 花嫁候补
 
-[珀布利]() [艾丽]() [琳]() [卡莲]() [玛丽]()
+[珀布利](/Resident/Pobuli.md) [艾丽](/Resident/Aili.md) [琳](/Resident/Lin.md) [卡莲](/Resident/Kalian.md) [玛丽](/Resident/Mary.md)
 
 ### 花婿候补
 
-[克里夫]() [多特]() [格雷]() [里克]() [凯伊]()
+[克里夫](/Resident/Kelifu.md) [多特](/Resident/Doctor.md) [格雷](/Resident/Gelei.md) [里克](/Resident/Like.md) [凯伊](/Resident/Kai.md)
 
 ### 小镇居民
 
-[安娜]() [穆奇]() [卡特]() [艾莲]() [哥茨]() [哈里斯]() [杰夫]() [莉莉雅]() [玛娜]() [梅]() [达特]() [巴基尔]() [塞巴拉]() [沙夏]() [优]() [托马斯]() [霍安]() [扎克]() [笛克]()
+[安娜](/Resident/Ana.md) [穆奇](/Resident/Muqi.md) [卡特](/Resident/Kate.md) [艾莲](/Resident/Ailian.md) [哥茨](/Resident/Gezi.md) [哈里斯](/Resident/Halisi.md) [杰夫](/Resident/Jiefu.md) [莉莉雅](/Resident/Liliya.md) [玛娜](/Resident/Mana.md) [梅](/Resident/Mei.md) [达特](/Resident/Date.md) [巴基尔](/Resident/Bajier.md) [塞巴拉](/Resident/Saibala.md) [沙夏](/Resident/Shaxia.md) [优](/Resident/You.md) [托马斯](/Resident/Thomas.md) [霍安](/Resident/Huoan.md) [扎克](/Resident/Zhake.md) [笛克](/Resident/Dike.md)
 
 ### 七个小矮人
 
-[阿克亚]() [古里笛]() [歇夫年]() [卓卡克]() [迪米特]() [纳皮]() [波尔多]()
+[阿克亚](/Resident/Akeya.md) [古里笛](/Resident/Gulidi.md) [歇夫年](/Resident/Xiefunian.md) [卓卡克](/Resident/Zhuokake.md) [迪米特](/Resident/Dimite.md) [纳皮](/Resident/Napi.md) [波尔多](/Resident/Boerduo.md)
 
 ### 特殊人物
 
-[格尔曼]() [河童]() [女神]() [BB]() [班]() [露]()
+[格尔曼](/Resident/Geerman.md) [河童](/Resident/Hetong.md) [女神](/Resident/Goddess.md) [宝宝](/Resident/baby.md) [班](/Resident/Ban.md) [露](/Resident/Lu.md)
 
 ### 未登场人物
 
-[罗德]() [阿佐]() [古乐古]() [佐安]()
+[罗德](/Resident/Luode.md) [阿佐](/Resident/Azuo.md) [古乐古](/Resident/Gulegu.md) [佐安](/Resident/Zuoan.md)
 
 ## 牧场生活
 
 ### 农业相关
 
-- [农用道具]()
-- [作物收获列表]()
-[作物]() [山货]()
+- [农用道具](/life/farm/prop.md)
+- [作物收获列表](/life/farm/reward.md)
+[作物](/life/farm/crop.md) [山货](/life/farm/mountain.md)
 
 ### 动物相关
 
-- [畜牧资料]()
-- [畜牧道具]()
-[鸡]() [牛]() [羊]() [马]() [狗]()
+- [畜牧资料](/life/pasture/data.md)
+- [畜牧道具](/life/pasture/prop.md)
+[鸡](/life/pasture/chicken.md) [牛](/life/pasture/cow.md) [羊](/life/pasture/sheep.md) [马](/life/pasture/horse.md) [狗](/life/pasture/dog.md)
 
 ### 其他道具
 
-- [电话购物]()
-- 女孩版特有：[班最喜欢的东西]() [戒指]()
-- 其他道具： [其他道具]()
-[女神秘宝]() [河童秘宝]() [真实秘宝]()
-[力之果实]() [不可思议的果实]()
-[首饰与化妆品]()
+- [电话购物](/life/other/phone.md)
+- 女孩版特有：[班最喜欢的东西](/life/other/ban_like.md) [戒指](/life/other/ring.md)
+- 其他道具： [其他道具](/life/other/other.md)
+[女神秘宝](/life/other/goddess.md) [河童秘宝](/life/other/kappa.md) [真实秘宝](/life/other/real.md)
+[力之果实](/life/other/power.md) [不可思议的果实](/life/other/incredible.md)
+[首饰与化妆品](/life/other/jewelry.md)
 
 ### 挖矿指南
 
-- [挖矿方法]()
-- [矿场产物]()
+- [挖矿方法](/life/mining/method.md)
+- [矿场产物](/life/mining/product.md)
 
 ### 钓鱼研究
 
-- [鱼图鉴]()
-- [钓鱼资料]()
+- [鱼图鉴](/life/fish/Illustration.md)
+- [钓鱼资料](/life/fish/Data.md)
 
 ### 料理菜谱
 
-- [料理道具]()
-- [料理菜谱]()
-- [失败料理]()
-- [料理大赛]()
+- [料理道具](/life/cooking/prop.md)
+- [料理菜谱](/life/cooking/menu.md)
+- [失败料理](/life/cooking/failure.md)
+- [料理大赛](/life/cooking/competition.md)
 
 ## 事件列表
 
-- [好感度]()
-- [日历事件]()
-- [女神猜数字游戏]()
-- [节日事件]()
-- [镇民事件]()
-- [爱情事件]()
-- [情敌事件]()
-- [婚后事件]()
-- [隐藏事件]()
-- [女孩版特有事件]()
+- [好感度](/event/Favorability.md)
+- [日历事件](/event/Calendar.md)
+- [女神猜数字游戏](/event/Guess_number.md)
+- [节日事件](/event/Festival.md)
+- [镇民事件](/event/Resident.md)
+- [爱情事件](/event/Love.md)
+- [情敌事件](/event/Love_enemy.md)
+- [婚后事件](/event/After_marriage.md)
+- [隐藏事件](/event/Hide.md)
+- [女孩版特有事件](/event/Girl_version.md)
 
 ## 其他资料
 
-- [联机]()
-- [换季BUG]()
-- [无限体力BUG]()
-- [金手指]()
+- [联机](/other/Online.md)
+- [换季BUG](/other/SeasonBUG.md)
+- [无限体力BUG](/other/physicalBUG.md)
+- [金手指](/other/Cheat_code.md)
 
 ## 相关
 
-- [**关于矿石镇的攻略百科**]()
-- [**免责声明**]()
+- [**关于矿石镇的攻略百科**](/about/this.md)
+- [**免责声明**](/about/Disclaimer.md)

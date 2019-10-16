@@ -65,5 +65,7 @@
 - Web版 - 我们的牧场物语　已终止 （运营期间：2010年11月25日-2012年10月1日）
 
 ## 参考资料
+
 [维基百科](http://zh.wikipedia.org/wiki/%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E%E7%B3%BB%E5%88%97)
+
 [牧场物语游戏官网](https://www.bokumono.com/index.php)
