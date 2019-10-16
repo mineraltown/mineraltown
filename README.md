@@ -6,8 +6,8 @@
 
 ## 游戏介绍
 
-- [牧场物语](.\introduction\HarvestMoon.md)
-- [矿石镇的伙伴们](.\introduction\Mineraltown.md)
+- [牧场物语](/introduction/HarvestMoon.md)
+- [矿石镇的伙伴们](/introduction/Mineraltown.md)
 
 ## 新手入门
 
