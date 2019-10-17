@@ -100,7 +100,6 @@
 
 - [料理道具](/life/cooking/prop.md)
 - [料理菜谱](/life/cooking/menu.md)
-- [失败料理](/life/cooking/failure.md)
 - [料理大赛](/life/cooking/competition.md)
 
 ## 事件列表
