@@ -44,6 +44,7 @@
 
 ### 花婿候补
 
+
 [克里夫](/Resident/Kelifu.md) [多特](/Resident/Doctor.md) [格雷](/Resident/Gelei.md) [里克](/Resident/Like.md) [凯伊](/Resident/Kai.md)
 
 ### 小镇居民
@@ -52,7 +53,7 @@
 
 ### 七个小矮人
 
-[阿克亚](/Resident/Akeya.md) [古里笛](/Resident/Gulidi.md) [歇夫年](/Resident/Xiefunian.md) [卓卡克](/Resident/Zhuokake.md) [迪米特](/Resident/Dimite.md) [纳皮](/Resident/Napi.md) [波尔多](/Resident/Boerduo.md)
+[<span style="color:#3fceca">阿克亚</span>](/Resident/Akeya.md) [<span style="color:#d6d100">古里笛</span>](/Resident/Gulidi.md) [<span style="color:#ec3813">歇夫年</span>](/Resident/Xiefunian.md) [<span style="color:#5268bb">卓卡克</span>](/Resident/Zhuokake.md) [<span style="color:#65df1c">迪米特</span>](/Resident/Dimite.md) [<span style="color:#f58d2c">纳皮</span>](/Resident/Napi.md) [<span style="color:#b0569c">波尔多</span>](/Resident/Boerduo.md)
 
 ### 特殊人物
 
