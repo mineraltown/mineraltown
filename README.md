@@ -68,7 +68,7 @@
 ### 农业相关
 
 - [农用道具](/life/farm/prop.md)
-- [作物收获列表](/life/farm/reward.md)
+- 作物收获列表
 [作物](/life/farm/crop.md) [山货](/life/farm/mountain.md)
 
 ### 动物相关
@@ -89,7 +89,6 @@
 ### 挖矿指南
 
 - [挖矿方法](/life/mining/method.md)
-- [矿场产物](/life/mining/product.md)
 
 ### 钓鱼研究
 
