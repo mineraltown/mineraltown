@@ -89,6 +89,7 @@
 ### 挖矿指南
 
 - [挖矿方法](/life/mining/method.md)
+- [矿场产物](/life/mining/product.md)
 
 ### 钓鱼研究
 
