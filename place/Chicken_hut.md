@@ -1,5 +1,9 @@
 # 鸡小屋
 
+![完全增筑后的鸡小屋1](Chicken-1.png)
+
+![完全增筑后的鸡小屋2](Chicken.png)
+
 用来养[鸡](/life/pasture/chicken.md)，可以[增筑](/place/expansion.md)
 
 ## 介绍
@@ -16,8 +20,3 @@
 
 1. 5000 G
 2. 420块木材
-
-## 完全增筑后的鸡小屋
-
-![完全增筑后的鸡小屋1](Chicken-1.png)
-![完全增筑后的鸡小屋2](Chicken.png)

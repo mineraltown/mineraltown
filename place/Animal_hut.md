@@ -1,5 +1,9 @@
 # 动物小屋
 
+![dwxw1](Nyxw01.png)
+
+![dwxw2](Nyxw.png)
+
 用来养[牛](/life/pasture/cow.md)和[羊](/life/pasture/sheep.md)，可以[增筑](/place/expansion.md)
 
 ## 介绍
@@ -13,8 +17,3 @@
 
 1. 6800 G
 2. 500块木材
-
-## 完全增筑后的牛羊小屋
-
-![dwxw1](Nyxw01.png)
-![dwxw2](Nyxw.png)
