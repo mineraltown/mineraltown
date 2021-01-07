@@ -14,7 +14,7 @@ html,body {
     -khtml-user-select: none;
 }
 body {
-    font-family: 'Microsoft JhengHei','Microsoft YaHei',sans-serif;
+    font-family: "Noto Sans CJK SC", "Source Han Sans CN", "PingFangSC-Regular", "Microsoft YaHei", sans-serif;
     display: flex;
     display: -webkit-flex;
     flex-flow: column nowrap;

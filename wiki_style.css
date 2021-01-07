@@ -19,7 +19,7 @@ html {
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Microsoft YaHei',sans-serif;
+    font-family: "Noto Sans CJK SC", "Source Han Sans CN", "PingFangSC-Regular", "Microsoft YaHei", sans-serif;
     color: #555;
     width: 90%;
     max-width: 1200px;
@@ -44,6 +44,7 @@ table {
     padding: 0;
     width: 100%;
     overflow:hidden;
+    border-collapse: collapse;
 }
 
 th {
@@ -52,6 +53,7 @@ th {
     border-color:rgb(255,255,255);
     height: 1.7em;
     line-height: 1.7em;
+    border: solid 1px #ffffff;
 }
 
 td {
@@ -61,4 +63,5 @@ td {
     height: 1.7em;
     line-height: 1.7em;
     text-align: center;
+    border: solid 1px #ffffff;
 }
